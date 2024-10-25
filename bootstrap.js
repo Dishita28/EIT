@@ -27,7 +27,7 @@
             <div class ="col-sm-4" style="background-color: blue">
             hii shubh</div class>
             <div class ="col-sm-4" style="background-color: green;">
-            hi jeet</div class>
+            hi mrigank</div class>
         </div>
         
     </body>
