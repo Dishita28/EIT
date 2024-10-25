@@ -11,7 +11,7 @@
 
         <!--fluid container-->>
         <div class="container-fluid">
-            <p>dishita jeet</p>
+            <p>dishita </p>
         </div>
 
         <!--responsive container-->>
